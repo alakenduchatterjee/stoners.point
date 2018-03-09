@@ -4,5 +4,10 @@ body {
 }
 
 button {
+  margin-top: 20px;
   padding: 55px;
+}
+
+p{
+  margin-top: 55px;
 }
